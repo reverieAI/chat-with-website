@@ -1,0 +1,8 @@
+langchain==0.1.15
+langchain_community==0.0.32
+langchain_core==0.1.41
+langchain_openai==0.1.2
+st_social_media_links==0.1.1
+streamlit==1.33.0
+chromadb==0.4.24
+beautifulsoup4==4.12.3
